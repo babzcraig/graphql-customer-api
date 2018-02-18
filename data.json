@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "Max Happy",
+      "age": 28,
+      "email": "max@doe.com"
+    },
+    {
+      "id": "4",
+      "name": "Dele Doe",
+      "age": 45,
+      "email": "dele@doe.com"
+    },
+    {
+      "name": "Babs Craig",
+      "age": 34,
+      "email": "babs@babscraig.com",
+      "id": "fkl5GRg"
+    },
+    {
+      "name": "Babs Craig",
+      "age": 34,
+      "email": "babs@babscraig.com",
+      "id": "u5A~j1t"
+    }
+  ]
+}

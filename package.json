@@ -1,0 +1,26 @@
+{
+  "name": "graphql-customerbase",
+  "version": "1.0.0",
+  "description": "GraphQL Server for a customer base resource",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon --exec babel-node server.js",
+    "json:server": "json-server --watch data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babs Craig",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.1",
+    "json-server": "^0.12.1",
+    "nodemon": "^1.15.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
